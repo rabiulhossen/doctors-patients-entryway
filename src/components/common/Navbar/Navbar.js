@@ -14,10 +14,10 @@ const Navbar = () => {
   </>
   return (
     <div>
-      <div class="navbar bg-base-100">
+      <div class="navbar bg-base-500">
         <div class="navbar-start">
           <div class="dropdown">
-            <label tabindex="0" class="btn btn-ghost lg:hidden">
+            <label tabindex="0" class="btn btn-secondary lg:hidden">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 class="h-5 w-5"
